@@ -73,7 +73,7 @@ body {
 
 #mainNav {
     border-color: rgba(34, 34, 34, 0.05);
-    background-color: #0F3723;
+    background-color: #252422;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
@@ -148,7 +148,7 @@ body {
 
         #mainNav.navbar-shrink {
             border-color: rgba(34, 34, 34, 0.05);
-            background-color: #0F3723;
+            background-color: #252422;
         }
 
             #mainNav.navbar-shrink .navbar-brand {
